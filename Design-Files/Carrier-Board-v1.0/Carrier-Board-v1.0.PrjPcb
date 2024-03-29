@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FUGYBUAS
 
 [Document2]
-DocumentPath=Power-Sheet.SchDoc
+DocumentPath=BUCK REGULATOR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,6 +83,23 @@ GenerateClassCluster=0
 DocumentUniqueId=HPQJISVA
 
 [Document3]
+DocumentPath=LINEAR_VOLTAGE_REG.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=22
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XCSLYPMJ
+
+[Document4]
 DocumentPath=ROCKCHIP_POWER_SUPPLY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,8 +116,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMUWLVIZ
 
-[Document4]
-DocumentPath=..\..\..\..\..\..\Desktop\Anis M\Library\Robert_.PcbLib
+[Document5]
+DocumentPath=..\..\..\..\..\..\Desktop\Anis M\Library\ANIS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -116,8 +133,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
-DocumentPath=..\..\..\..\..\..\Desktop\Anis M\Library\Robert_.SchLib
+[Document6]
+DocumentPath=..\..\..\..\..\..\Desktop\Anis M\Library\ANIS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -133,7 +150,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CMDQJWOG
 
-[Document6]
+[Document7]
 DocumentPath=MICRO_SD_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +167,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COMHTVVI
 
-[Document7]
+[Document8]
 DocumentPath=HDMI_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -167,7 +184,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZKCCYAPL
 
-[Document8]
+[Document9]
 DocumentPath=MIPI-DSI DISPLAY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OWFQVAIK
 
-[Document9]
+[Document10]
 DocumentPath=USB2.0_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GGBWUYTO
 
-[Document10]
+[Document11]
 DocumentPath=USB3.0_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PRJCXYCW
 
-[Document11]
+[Document12]
 DocumentPath=ETHERNET_PHY0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BFTUCFRD
 
-[Document12]
+[Document13]
 DocumentPath=ETHERNET_PHY1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHBTBQTF
 
-[Document13]
+[Document14]
 DocumentPath=WIFI_BLUETOOTH_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSKYRJJO
 
-[Document14]
+[Document15]
 DocumentPath=GSM_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +303,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKVUDLMD
 
-[Document15]
+[Document16]
 DocumentPath=DUAL_SIM_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +320,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACCCYQXW
 
-[Document16]
+[Document17]
 DocumentPath=RS232_RS485_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +337,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SDKFPZHI
 
-[Document17]
+[Document18]
 DocumentPath=DEBUG_UART_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +354,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQGJKHCK
 
-[Document18]
+[Document19]
 DocumentPath=GPIOs_Relay_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JKGEBGTG
 
-[Document19]
+[Document20]
 DocumentPath=WIEGAND_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VXMOXMDS
 
-[Document20]
+[Document21]
 DocumentPath=SENSOR_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZDOSJQQO
 
-[Document21]
+[Document22]
 DocumentPath=AUDIO_INTERFACE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +422,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OOFCBQWI
 
-[Document22]
+[Document23]
+DocumentPath=PUSH BUTTONs_INTERFACE.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=21
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CEZEEPEW
+
+[Document24]
 DocumentPath=Carrier_Board_v1.0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -421,23 +455,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QFALUHAW
-
-[Document23]
-DocumentPath=ACTION BUTTONs_HW LEDs_PROVITION LEDs.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=21
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CEZEEPEW
 
 [Configuration1]
 Name=Sources
