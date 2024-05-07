@@ -1,8 +1,8 @@
 Board Information Report
-Filename     : C:\Users\XPENDER\Documents\GitHub\anis-carrierboard\Design-Files\Carrier-Board-v1.0\Carrier_Board_v1.0.PcbDoc
-Date         : 5/6/2024
-Time         : 11:14:25 PM
-Time Elapsed : 00:00:00
+Filename     : C:\Users\LiberDB\Documents\GitHub\anis-carrierboard\Design-Files\Carrier-Board-v1.0\Carrier_Board_v1.0.PcbDoc
+Date         : 5/7/2024
+Time         : 10:21:11 PM
+Time Elapsed : 00:00:01
 
 General
     Board Size, 5905.512milsx4330.709mils
@@ -10,32 +10,32 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 39.92%
+    Routing completion, 49.62%
     Connections, 1691
-    Connections routed, 675
-    Connections remaining, 1016
+    Connections routed, 839
+    Connections remaining, 852
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 43, 1234, 0, 457, 0, 174, 1, 0
-    L2_GND1, 0, 0, 0, 0, 0, 0, 0, 0
-    L3_SIG1, 2, 0, 0, 183, 0, 0, 0, 0
-    L4_PWR, 93, 0, 0, 162, 0, 0, 0, 0
+    Top Layer, 40, 1234, 0, 601, 0, 188, 1, 0
+    L2_GND1, 0, 0, 0, 1, 0, 0, 0, 0
+    L3_SIG1, 2, 0, 0, 213, 0, 0, 0, 0
+    L4_PWR, 93, 0, 0, 203, 0, 0, 0, 0
     L5_GND2, 0, 0, 0, 0, 0, 0, 0, 0
-    L6_SIG2, 0, 0, 0, 204, 0, 0, 0, 0
+    L6_SIG2, 0, 0, 0, 199, 0, 0, 0, 0
     L7_GND3, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Layer, 46, 1043, 0, 434, 0, 209, 1, 0
+    Bottom Layer, 46, 1043, 0, 617, 0, 249, 1, 0
     Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 618
     Board_Outline, 24, 0, 0, 28, 4, 0, 1, 0
     Mechanical 3, 0, 0, 0, 0, 0, 0, 0, 0
     Mechanical 13, 19, 0, 0, 1806, 0, 0, 0, 5
     Mechanical 15, 3, 0, 0, 3, 0, 0, 0, 0
-    Multi-Layer, 2, 143, 408, 0, 0, 0, 9, 0
+    Multi-Layer, 2, 143, 491, 0, 0, 0, 9, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 258, 0
     Top Overlay, 16, 0, 0, 2043, 620, 22, 17, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 1, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 4, 0, 0, 2201, 731, 23, 0, 0
+    Bottom Overlay, 4, 0, 0, 2199, 731, 23, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 82, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 6, 0, 12, 2, 0
@@ -46,15 +46,22 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 2.536, 1636.11, 10%
-    L2_GND1, 0.708, 456.656, 3%
-    L3_SIG1, 0.954, 615.397, 4%
-    L4_PWR, 1.347, 869.17, 5%
-    L5_GND2, 0.708, 456.656, 3%
-    L6_SIG2, 0.922, 595.018, 4%
-    L7_GND3, 0.708, 456.656, 3%
-    Bottom Layer, 2.25, 1451.565, 9%
+    Top Layer, 2.65, 1709.882, 10%
+    L2_GND1, 0.748, 482.572, 3%
+    L3_SIG1, 1.069, 689.797, 4%
+    L4_PWR, 1.515, 977.554, 6%
+    L5_GND2, 0.745, 480.43, 3%
+    L6_SIG2, 0.958, 618.228, 4%
+    L7_GND3, 0.745, 480.43, 3%
+    Bottom Layer, 2.46, 1587.408, 10%
 count : 8
 
-Via Solder Mask, Count
-count : 0
+Non-Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    27.56mils, 0, 0
+    29.528mils, 0, 0
+    39.37mils, 0, 0
+    55.118mils, 0, 0
+    62.992mils, 0, 0
+    127.952mils, 0, 0
+count : 7
