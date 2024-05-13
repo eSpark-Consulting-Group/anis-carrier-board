@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : C:\Users\LiberDB\Documents\GitHub\anis-carrierboard\Design-Files\Carrier-Board-v1.0\Carrier_Board_v1.0.PcbDoc
-Date         : 5/9/2024
-Time         : 7:12:56 PM
+Date         : 5/13/2024
+Time         : 5:18:36 PM
 Time Elapsed : 00:00:01
 
 General
@@ -10,27 +10,27 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 55.94%
+    Routing completion, 56.42%
     Connections, 1691
-    Connections routed, 946
-    Connections remaining, 745
+    Connections routed, 954
+    Connections remaining, 737
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 38, 1234, 0, 767, 0, 194, 4, 0
+    Top Layer, 38, 1234, 0, 769, 0, 194, 4, 0
     L2_GND1, 0, 0, 0, 1, 0, 0, 0, 0
-    L3_SIG1, 2, 0, 0, 232, 0, 0, 0, 0
-    L4_PWR, 78, 0, 0, 172, 0, 0, 4, 0
+    L3_SIG1, 2, 0, 0, 238, 0, 0, 0, 0
+    L4_PWR, 78, 0, 0, 182, 0, 0, 4, 0
     L5_GND2, 0, 0, 0, 0, 0, 0, 0, 0
     L6_SIG2, 6, 0, 0, 204, 0, 0, 0, 0
     L7_GND3, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Layer, 46, 1043, 0, 640, 0, 267, 8, 0
+    Bottom Layer, 46, 1043, 0, 641, 0, 273, 8, 0
     Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 618
     Board_Outline, 24, 0, 0, 28, 4, 0, 1, 0
     Mechanical 3, 0, 0, 0, 0, 0, 0, 0, 0
     Mechanical 13, 19, 0, 0, 1806, 0, 0, 0, 5
     Mechanical 15, 3, 0, 0, 3, 0, 0, 0, 0
-    Multi-Layer, 2, 143, 570, 0, 0, 0, 9, 0
+    Multi-Layer, 2, 143, 578, 0, 0, 0, 9, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 258, 0
     Top Overlay, 16, 0, 0, 2043, 620, 22, 17, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 1, 0
@@ -46,14 +46,14 @@ Drill Pairs, Vias
 count : 0
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 2.859, 1844.519, 11%
-    L2_GND1, 0.783, 505.129, 3%
-    L3_SIG1, 1.167, 753.145, 5%
-    L4_PWR, 2.774, 1789.563, 11%
-    L5_GND2, 0.78, 502.986, 3%
-    L6_SIG2, 1.07, 690.215, 4%
-    L7_GND3, 0.78, 502.986, 3%
-    Bottom Layer, 2.698, 1740.337, 11%
+    Top Layer, 2.862, 1846.641, 11%
+    L2_GND1, 0.787, 507.42, 3%
+    L3_SIG1, 1.178, 759.9, 5%
+    L4_PWR, 2.811, 1813.667, 11%
+    L5_GND2, 0.783, 505.278, 3%
+    L6_SIG2, 1.073, 692.507, 4%
+    L7_GND3, 0.783, 505.278, 3%
+    Bottom Layer, 2.702, 1743.254, 11%
 count : 8
 
 Non-Plated Hole Size, Pads, Vias
