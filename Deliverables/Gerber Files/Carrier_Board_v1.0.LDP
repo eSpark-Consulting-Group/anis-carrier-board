@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\eSpark\Desktop\anis-carrierboard\Design-Files\Carrier-Board-v1.0\Carrier_Board_v1.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=carrier_board_v1.0-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=carrier_board_v1.0-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl
