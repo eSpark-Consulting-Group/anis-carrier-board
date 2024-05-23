@@ -1,0 +1,84 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\eSpark\Desktop\anis-carrierboard\Design-Files\Carrier-Board-v1.0\Carrier_Board_v1.0.PcbDoc
+Date     : 5/23/2024
+Time     : 9:34:44 PM
+
+Processing Rule : Clearance Constraint (Gap=0.178mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net VCC5V_SYS Between Pad C57-1(21.145mm,87.706mm) on Bottom Layer [Unplated] And Track (23.797mm,93.311mm)(25.679mm,93.311mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (57.506mm,89.27mm) from Top Layer to Bottom Layer And Pad C6-2(60.757mm,88.793mm) on Top Layer [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J6-4(72.226mm,98.965mm) on Multi-Layer And Pad D7-1(74.482mm,100.462mm) on Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net VCC5V_SYS Between Via (130.277mm,12.319mm) from Top Layer to Bottom Layer And Via (139.817mm,65.339mm) from Top Layer to Bottom Layer 
+Rule Violations :4
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.112mm) (Max=0.191mm) (Preferred=0.176mm) (InNetClass('RF'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=2.54mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InDifferentialPairClass('DIFF-ETH-100'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InNetClass('RS485'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InNetClass('GSM_USB'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InDifferentialPairClass('DIFF-USB-90'))
+   Violation between Matched Net Lengths: Between Net STDA_SSRX1_N And Net STDA_SSRX1_P Actual Difference against STDA_SSRX1_P is: 3.392mm, Tolerance : 0.508mm. 
+   Violation between Matched Net Lengths: Between Net STDA_SSTX1_N And Net STDA_SSTX1_P Actual Difference against STDA_SSTX1_P is: 2.705mm, Tolerance : 0.508mm. 
+   Violation between Matched Net Lengths: Between Net USB3.0_D_N And Net USB3.0_D_P Actual Difference against USB3.0_D_P is: 1.43mm, Tolerance : 0.508mm. 
+Rule Violations :3
+
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InDifferentialPairClass('DIFF-AMP'))
+   Violation between Matched Net Lengths: Between Net AMP_IN_N And Net AMP_IN_P Actual Difference against AMP_IN_P is: 1.206mm, Tolerance : 0.508mm. 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InDifferentialPairClass('DIFF-MIC'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InDifferentialPairClass('DIFF-MIPI-100'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=0.508mm) (InDifferentialPairClass('DIFF_HDMI_100'))
+   Violation between Matched Net Lengths: Between Net HDMI1_TXD2_N And Net HDMI1_TXD2_P Actual Difference against HDMI1_TXD2_P is: 0.741mm, Tolerance : 0.508mm. 
+Rule Violations :1
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Waived Violations : 0
+Time Elapsed        : 00:00:06
