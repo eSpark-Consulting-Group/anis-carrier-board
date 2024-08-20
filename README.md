@@ -1,5 +1,6 @@
 # Carrier Board Design and Development
 ### Client Name: Anis Mohammed
+## Peripherals
 |S:No|Item Name|Qty|Image Link|
 |--|--|--|--|
 |1|Carrier Board with Brifly kit|2| |
