@@ -4,9 +4,9 @@ C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\anis-carrierboard\
 ========================================================================================================================
 File Design Information:
 
-Date:       09/09/24
-Time:       19:13
-Revision:   ae2e5f173663198ffe54ca74855622c6d1a8568b
+Date:       10/09/24
+Time:       11:10
+Revision:   67699e8cdf0fb9dd2175795fa3a7a270fffabb74
 Variant:    No variations
 Units used: mm
 
@@ -489,8 +489,10 @@ R136       136.4540mm   85.5549mm    TopLayer    90       136.4540mm 85.5549mm  
 R137       46.3297mm    102.6414mm   BottomLayer 270      46.3296mm  102.6414mm 46.3297mm  103.1113mm 
 R138       41.1725mm    102.5532mm   BottomLayer 90       41.1725mm  102.5532mm 41.1725mm  102.0833mm 
 R139       40.0906mm    98.7298mm    BottomLayer 270      40.0907mm  98.7298mm  40.0906mm  99.1997mm  
+R140       86.3340mm    68.0974mm    BottomLayer 90       86.3340mm  68.0974mm  86.3340mm  67.6275mm  
 R141       125.3647mm   88.7000mm    BottomLayer 0        125.3647mm 88.7000mm  124.8948mm 88.7000mm  
 R142       127.3556mm   84.3280mm    TopLayer    180      127.3556mm 84.3280mm  127.8255mm 84.3280mm  
+R143       87.4014mm    68.0974mm    BottomLayer 90       87.4014mm  68.0974mm  87.4014mm  67.6275mm  
 R144       109.6401mm   76.8589mm    BottomLayer 270      109.6401mm 76.8588mm  109.6401mm 77.3288mm  
 R145       110.0342mm   69.1134mm    BottomLayer 270      110.0342mm 69.1134mm  110.0342mm 69.5833mm  
 R146       107.3527mm   76.8589mm    BottomLayer 270      107.3528mm 76.8589mm  107.3527mm 77.3288mm  
